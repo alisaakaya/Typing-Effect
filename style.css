@@ -1,3 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@300&display=swap');
+    /* 
+    to change font family or type, go to googlefonts.com and link different stylesheet
+    */
 .typing__effect {
     font-size: 5rem;
     font-color: rgb(0, 0, 0);
